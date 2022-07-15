@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Amphisbaena",
+    "description": "A serpent with two heads, one at either end",
+    "otherNames": ["Amfivena", "Anphine", "Anphivena", "Fenmine"],
+    "imageUrl": "https://bestiary.ca/beastimage/img100489.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Monocerus",
+    "description": "A fierce beast with a single long horn",
+    "otherNames": [
+      "Monoceros",
+      "Monocheros",
+      "Rhinoceros",
+      "Rynoceron",
+      "Unicorn"
+    ],
+    "imageUrl": "https://bestiary.ca/beastimage/img1012.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Manticore",
+    "description": "A composite beast with a man's face, a lion's body, and the stinger of a scorpion",
+    "otherNames": ["Harpy"],
+    "imageUrl": "https://bestiary.ca/beastimage/img101860.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mandrake",
+    "description": "A plant with human-shaped roots, that shrieks when it is pulled from the earth",
+    "otherNames": [],
+    "imageUrl": "https://bestiary.ca/beastimage/img4521.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Parandrus",
+    "description": "A beast that can conceal itself by changing its appearance",
+    "otherNames": ["Tarandrus", "Tharandus"],
+    "imageUrl": "https://bestiary.ca/beastimage/img184.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Peridexion Tree",
+    "description": "A tree in India that attracts doves and repels dragons",
+    "otherNames": [
+      "Aradixon",
+      "Circa dexteram",
+      "Environ destre",
+      "Paradixion",
+      "Pendens",
+      "Peredixion",
+      "Perindens"
+    ],
+    "imageUrl": "https://bestiary.ca/beastimage/img2140.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Scitalis",
+    "otherNames": ["Scytale"],
+    "description": "A serpent with such a marvellous appearance that it stuns the viewer",
+    "imageUrl": "https://bestiary.ca/beastimage/img102075.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sea-pig",
+    "description": "Sea-pigs dig up the ground under water",
+    "otherNames": ["Dugong", "Porco"],
+    "imageUrl": "https://bestiary.ca/beastimage/img418.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hippocampus",
+    "description": "A beast with the front half of a horse and tail of a fish or serpent",
+    "otherNames": ["Sea-horse"],
+    "imageUrl": "https://bestiary.ca/beastimage/img101258.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Yale",
+    "description": "A beast with flexible horns that it can move at will",
+    "otherNames": ["Centicore"],
+    "imageUrl": "https://bestiary.ca/beastimage/img4955.jpg"
+  }
+]
